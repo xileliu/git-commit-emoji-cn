@@ -43,9 +43,9 @@ git commit -m ":tada: Initialize Repo"
 emoji                                   | emoji 代码                   | commit 说明
 :--------                               | :--------                    | :--------
 :tada: (庆祝)                           | `:tada:`                     | 初次提交
+:bug: (bug)                             | `:bug:`                      | 修复 bug
 :new: (全新)                            | `:new:`                      | 引入新功能
 :bookmark: (书签)                       | `:bookmark:`                 | 发行/版本标签
-:bug: (bug)                             | `:bug:`                      | 修复 bug
 :ambulance: (急救车)                    | `:ambulance:`                | 重要补丁
 :globe_with_meridians: (地球)           | `:globe_with_meridians:`     | 国际化与本地化
 :lipstick: (口红)                       | `:lipstick:`                 | 更新 UI 和样式文件
@@ -56,7 +56,6 @@ emoji                                   | emoji 代码                   | commi
 :heavy_minus_sign: (减号)               | `:heavy_minus_sign:`         | 减少一个依赖
 :arrow_up: (上升箭头)                   | `:arrow_up:`                 | 升级依赖
 :arrow_down: (下降箭头)                 | `:arrow_down:`               | 降级依赖
-:zap: (闪电)<br>:racehorse: (赛马)      | `:zap:`<br>`:racehorse:`      | 提升性能
 :chart_with_upwards_trend: (上升趋势图) | `:chart_with_upwards_trend:` | 添加分析或跟踪代码
 :rocket: (火箭)                         | `:rocket:`                   | 部署功能
 :white_check_mark: (白色复选框)         | `:white_check_mark:`           | 增加测试
@@ -76,13 +75,16 @@ emoji                                   | emoji 代码                   | commi
 :penguin: (企鹅)                        | `:penguin:`                  | 修复 Linux 下的问题
 :checkered_flag: (旗帜)                 | `:checkered_flag:`           | 修复 Windows 下的问题
 :twisted_rightwards_arrows: (交叉箭头)   | `:twisted_rightwards_arrows:`| 分支合并
+:zap: (闪电)<br>:racehorse: (赛马)      | `:zap:`<br>`:racehorse:`      | 提升性能
+:bug: (bug)                             | `:bug:`                      | 修复 bug
 :smirk: (坏笑))   | `:smirk:`| 实现的很得意
 :shit: (便便))   | `:shit:`| 产品经理提的垃圾需求的实现
 :sweat_drops: (水滴)))   | `:sweat_drops:`| 打飞机的时候写的代码
 :see_no_evil: (捂眼)))   | `:see_no_evil:`| 不忍直视的实现
 :octocat: (章鱼猫))))   | `:octocat:`| 从github拷贝的代码
 :bulb: (灯泡))))   | `:bulb:`| 灵感突现的实现
-:moneybag: (钱))))   | `:moneybag:`| 偷偷收钱改的需求
+:moneybag: (钱))))   | `:moneybag:`| 收钱改的需求
+:trollface: (暴漫)))   | `:trollface:`| 混提交记录
 
 
 
