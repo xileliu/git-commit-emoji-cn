@@ -76,6 +76,15 @@ emoji                                   | emoji 代码                   | commi
 :penguin: (企鹅)                        | `:penguin:`                  | 修复 Linux 下的问题
 :checkered_flag: (旗帜)                 | `:checkered_flag:`           | 修复 Windows 下的问题
 :twisted_rightwards_arrows: (交叉箭头)   | `:twisted_rightwards_arrows:`| 分支合并
+:smirk: (坏笑))   | `:smirk:`| 实现的很得意
+:shit: (便便))   | `:shit:`| 产品经理提的垃圾需求的实现
+:sweat_drops: (水滴)))   | `:sweat_drops:`| 打飞机的时候写的代码
+:see_no_evil: (捂眼)))   | `:see_no_evil:`| 不忍直视的实现
+:octocat: (章鱼猫))))   | `:octocat:`| 从github拷贝的代码
+:bulb: (灯泡))))   | `:bulb:`| 灵感突现的实现
+:moneybag: (钱))))   | `:moneybag:`| 偷偷收钱改的需求
+
+
 
 
 
